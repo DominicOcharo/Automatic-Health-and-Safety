@@ -47,6 +47,6 @@ The model is saved as both `best.pt` and  `best.onnx` with a size of 83.5 MB (87
 
 ### Example model predictions:
 
-![alt text](https://github.com/DominicOcharo/YOLOv8-With-FastAPI/blob/main/images/webresults.png?raw=true)
+![alt text](https://github.com/DominicOcharo/Automatic-Health-and-Safety/blob/main/images/10.jpeg?raw=true)
 
-![alt text](https://github.com/DominicOcharo/YOLOv8-With-FastAPI/blob/main/images/webresults2.png?raw=true)
+![alt text](https://github.com/DominicOcharo/Automatic-Health-and-Safety/blob/main/images/9.jpeg?raw=true)
